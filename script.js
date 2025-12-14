@@ -1,5 +1,3 @@
-alert("JS is connected");
-
 const form = document.getElementById("registrationForm");
 
 const fullName = document.getElementById("fullname");
